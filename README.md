@@ -20,3 +20,5 @@ Notes
 
 This is NOT the first FNAR game I made, this is the second. I will not release the first game since I believe it isn't really anything worth posting, but I may change my mind in the future.
 I haven't beaten this game yet. I'll try to do more attempts after uploading this.
+This version ONLY works with Apple Desktops/Laptops.
+You must download the entire reprository as one folder so that the game can locate the files and stuff properly.
